@@ -1,10 +1,11 @@
 # Crée ton script avec ces lignes
-nombre1 = 10
-nombre2 = 200
 
-# L'opération de multiplication
-resultat = nombre1 * nombre2
+nombre1 = 19
+nombre2 = 210
 
-# Affichage du résultat dans la console
-print(f"L'opération demandée est une multiplication :")
-print(f"{nombre1} x {nombre2} = {resultat}")
+# L'opération d'addition 
+resultat = nombre1 + nombre2
+
+# Affichage du résultat dans la console pour cette operation d'addition 
+print(f"L'opération demandée est une addition  :")
+print(f"{nombre1} + {nombre2} = {resultat}")

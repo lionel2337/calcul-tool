@@ -1,6 +1,6 @@
 # Crée ton script avec ces lignes
-nombre1 = 5
-nombre2 = 12
+nombre1 = 10
+nombre2 = 200
 
 # L'opération de multiplication
 resultat = nombre1 * nombre2

@@ -2,9 +2,9 @@
 nombre1 = 8
 nombre2 = 2
 
-# L'opération de multiplication
+# L'opération d'addition 
 resultat = nombre1 + nombre2
 
-# Affichage du résultat dans la console
-print(f"L'opération demandée est une multiplication :")
+# Affichage du résultat dans la console pour cette operation d'addition 
+print(f"L'opération demandée est une addition  :")
 print(f"{nombre1} + {nombre2} = {resultat}")

@@ -1,6 +1,6 @@
 # Crée ton script avec ces lignes
-nombre1 = 8
-nombre2 = 2
+nombre1 = 99
+nombre2 = 100
 
 # L'opération d'addition 
 resultat = nombre1 + nombre2
